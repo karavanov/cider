@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qaz", "qaz\qaz.csproj", "{13CA4430-186F-4EF1-B540-59EE45FEB1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qaz.Droid", "Droid\qaz.Droid.csproj", "{BBCF8A12-B9CE-48EA-B071-E4911031EF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CA4430-186F-4EF1-B540-59EE45FEB1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CA4430-186F-4EF1-B540-59EE45FEB1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CA4430-186F-4EF1-B540-59EE45FEB1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CA4430-186F-4EF1-B540-59EE45FEB1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCF8A12-B9CE-48EA-B071-E4911031EF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF8A12-B9CE-48EA-B071-E4911031EF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF8A12-B9CE-48EA-B071-E4911031EF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF8A12-B9CE-48EA-B071-E4911031EF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
